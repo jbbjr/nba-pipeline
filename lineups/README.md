@@ -1,4 +1,4 @@
-# Basketball Lineup Analytics Pipeline
+# Lineup Ratings Pipeline
 
 ETL pipeline for calculating 5-man lineup performance metrics from NBA play-by-play and box score data.
 
