@@ -1,4 +1,4 @@
-# rim_defense_tracker.py
+# rim_defense.py
 
 """
 Track rim defense statistics for each player (on court vs off court performance).

@@ -1,4 +1,4 @@
-# possession_analyzer_clean.py
+# possessions.py
 
 """
 Analyze possessions from play-by-play data and count possessions per player.

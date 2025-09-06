@@ -1,4 +1,4 @@
-# impact_calculator.py
+# impactr.py
 
 """
 Calculate final player impact table combining possession counts and rim defense stats.
